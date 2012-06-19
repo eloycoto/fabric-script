@@ -1,0 +1,12 @@
+# tree format
+group1:
+    machine1:
+        user: user
+        pass: super
+    localhost:
+        user: user
+        pass: super
+group2:
+    192.168.1.1:
+        user: user
+        pass: super
